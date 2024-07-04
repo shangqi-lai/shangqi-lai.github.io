@@ -185,11 +185,8 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
-  projects:
-    output: false
-    permalink: /projects/:path/
 
 announcements:
   enabled: false
