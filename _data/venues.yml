@@ -1,9 +1,19 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"IEEE TDSC":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
+"NDSS":
+  url: https://www.ndss-symposium.org
   color: "#009f36"
+
+"ACM CCS":
+  url: https://www.sigsac.org/ccs/CCS2018/index.html
+  color: "#800080"
+
+"USENIX SEC":
+  url: https://www.usenix.org/conference/usenixsecurity24
+  color: "#A52A2A"
+
+"ACM ASIACCS":
+  url: http://jianying.space/asiaccs/
+  color: "#808000"
