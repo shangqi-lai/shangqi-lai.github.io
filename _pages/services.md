@@ -9,13 +9,16 @@ nav_order: 3
 
 <h3>Organising Committee</h3>
 
+- **2025:** ACM ASIACCS and SecTL Workshop (Web Chair)
+- **2024:** AI Village (LLM CTF Activity) in Australian Cyber Conference (On-site Host), Quantum-Resistant Cybersecurity in Australia (AusQRC) Workshop (Web Chair)
 - **2023:** ACM ASIACCS and SecTL Workshop (Web Chair), ACE-SIP Summer School (Web Chair)
 - **2022:**  NSS (Publication Chair)
 - **2021:**  QSHINE (Publication Chair)
 
 <h3>TPC Member</h3>
 
-- **2024:** IEEE ICDCS, PETS (Artefact Review), WISE, IEEE MSN, PST, ACM ASIACCS SecTL Workshop
+- **2025:** PETS (Artefact Review), PST
+- **2024:** IEEE ICDCS, PETS (Artefact Review), WISE, IEEE MSN, PST, AICompS, ACM ASIACCS SecTL Workshop
 - **2023:** IEEE ICDCS, PETS (Artefact Review), CANS, EAI TRIDENTCOM
 - **2021:** ISC, IEEE INFOCOM BigSecurity Workshop, IEEE MSN, EAI ADHOCNETS
 
