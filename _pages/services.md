@@ -17,7 +17,8 @@ nav_order: 3
 
 <h3>TPC Member</h3>
 
-- **2025:** PETS (Artefact Review), PST
+- **2026:** ACM ASIACCS, PETS (Artefact Review), ACISP
+- **2025:** RAID, PETS (Artefact Review), IEEE MSN, PST, SOICT, AICompS, ACM ASIACCS SecTL Workshop
 - **2024:** IEEE ICDCS, PETS (Artefact Review), WISE, IEEE MSN, PST, AICompS, ACM ASIACCS SecTL Workshop
 - **2023:** IEEE ICDCS, PETS (Artefact Review), CANS, EAI TRIDENTCOM
 - **2021:** ISC, IEEE INFOCOM BigSecurity Workshop, IEEE MSN, EAI ADHOCNETS
@@ -26,6 +27,9 @@ nav_order: 3
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
 - Journal of Information Security and Applications (JISA)
+- IEEE/ACM Transactions on Networking (TON)
+- IEEE Journal on Selected Areas in Communications (JSAC)
+- IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Transactions on Service Computing (TSC)
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 - IEEE Transactions on Cloud Computing (TCC)
