@@ -2,7 +2,7 @@
 layout: about
 title: Shangqi Lai
 permalink: /
-subtitle: <a href='#'>Lecturer in Cyber Security</a>
+subtitle: <a href='#'>Lecturer in Cyber Security, The University of Melbourne</a>
 
 profile:
   align: right
