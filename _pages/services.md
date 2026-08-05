@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 <h3>Organising Committee</h3>
-
+- **2026:** ACISP (Publicity Chair)
 - **2025:** ACM ASIACCS and SecTL Workshop (Web Chair)
 - **2024:** AI Village (LLM CTF Activity) in Australian Cyber Conference (On-site Host), Quantum-Resistant Cybersecurity in Australia (AusQRC) Workshop (Web Chair)
 - **2023:** ACM ASIACCS and SecTL Workshop (Web Chair), ACE-SIP Summer School (Web Chair)
@@ -16,8 +16,8 @@ nav_order: 3
 - **2021:**  QSHINE (Publication Chair)
 
 <h3>TPC Member</h3>
-
-- **2026:** ACM ASIACCS, PETS (Artefact Review), ACISP
+- **2027:** IEEE S&P, USENIX Security
+- **2026:** ACM ASIACCS, RAID, ACSAC, PETS (Artefact Review), ACISP
 - **2025:** RAID, PETS (Artefact Review), IEEE MSN, PST, SOICT, AICompS, ACM ASIACCS SecTL Workshop
 - **2024:** IEEE ICDCS, PETS (Artefact Review), WISE, IEEE MSN, PST, AICompS, ACM ASIACCS SecTL Workshop
 - **2023:** IEEE ICDCS, PETS (Artefact Review), CANS, EAI TRIDENTCOM
